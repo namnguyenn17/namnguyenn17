@@ -8,3 +8,8 @@
 - 😄 Pronouns: Nam
 <!-- - ⚡ Fun fact:  -->
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nguyen17&layout=compact)](https://github.com/nam-nguyen17/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam-nguyen17)](https://github.com/nam-nguyen17/github-readme-stats)
+
+
