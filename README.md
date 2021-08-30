@@ -1,3 +1,13 @@
+<pre>
+----------------------------------------
+<span>Nam, Hello World!!</span>
+----------------------------------------
+      \   ^__^
+       \  (oo)\_______
+          (__)\ 0   0 )\  *
+              ||--0-w | \/
+              ||     ||
+</pre>
 
 - 🔭 I’m currently a third-year student at TTU
 - 🌱 I’m currently learning Python, Javascript
