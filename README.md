@@ -31,12 +31,12 @@
 <br/>
 <br/>
 
-- 🔭 I’m currently a third-year student at TTU
+- 🔭 I’m currently a final-year student at TTU
 - 🌱 I’m currently learning Python, Javascript
 - 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with NEAR Documentation
+- 🤔 I’m looking for help with Blockchain Documentation
 - 💬 Ask me about anythings
-- 📫 How to reach me: [Twitter - @NamNguyen579](https://twitter.com/NamNguyen579),  [Linkedin - Nam Nguyễn](https://www.linkedin.com/in/namnguyen1706/) 
+- 📫 How to reach me: [Linkedin - Nam Nguyễn](https://www.linkedin.com/in/namnguyen1706/) 
 - 😄 Pronouns: Nam
 <!-- - ⚡ Fun fact:  -->
 
