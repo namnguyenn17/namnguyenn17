@@ -8,15 +8,19 @@
               ||--0-w | \/
               ||     ||
 </pre>
-##
-<a href="https://twitter.com/NamNguyen579">
-  <img align="left" alt="Nam's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
+- 🔭 I’m currently a final-year student at TTU
+- 🌱 I’m currently learning Python, Javascript
+- 👯 I’m looking to collaborate with other developers
+- 🤔 I’m looking for help with Blockchain Documentation
+- 💬 Ask me about anythings
+- 📫 How to reach me: [Linkedin - Nam Nguyễn](https://www.linkedin.com/in/namnguyen1706/) 
+- 😄 Pronouns: Nam
+
+## 📧 Contact me
+
 <a href="https://www.linkedin.com/in/namnguyen1706">
   <img align="left" alt="Nam's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/nam-nguyen17">
-  <img align="left" alt="Nam's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/namnguyen_17">
   <img align="left" alt="Nam's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
@@ -29,24 +33,9 @@
 </a>
 
 <br/>
-<br/>
 
-- 🔭 I’m currently a final-year student at TTU
-- 🌱 I’m currently learning Python, Javascript
-- 👯 I’m looking to collaborate with other developers
-- 🤔 I’m looking for help with Blockchain Documentation
-- 💬 Ask me about anythings
-- 📫 How to reach me: [Linkedin - Nam Nguyễn](https://www.linkedin.com/in/namnguyen1706/) 
-- 😄 Pronouns: Nam
-<!-- - ⚡ Fun fact:  -->
+##
+<a href="https://github.com/nam-nguyen17"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nam-nguyen17&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nguyen17&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nguyen17&layout=compact)](https://github.com/nam-nguyen17/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam-nguyen17)](https://github.com/nam-nguyen17/github-readme-stats)
-
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
 
 
