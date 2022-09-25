@@ -35,7 +35,11 @@
 <br/>
 
 ##
-<a href="https://github.com/nam-nguyen17"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nam-nguyen17&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nguyen17&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nam-nguyen17&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nam-nguyen17&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nam-nguyen17&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nam-nguyen17&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nam-nguyen17&theme=github)
 
 
 
