@@ -14,27 +14,24 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <br/>
-<!--   <a href="https://vugomars.com/">
-    vugomars.com
-  </a> -->
+
 </div>
 
 ---
 **About Me**
-- I want to be a *Blockchain Developer*. Currently, I am a final-year student at TTU. I’m looking to collaborate with other developers.
-- I am passionate about creating technology about Blockchain to elevate technology in Vietnam.
+- I want to be a *Software Developer*. Currently, I am a final-year student at TTU.
+- I love nature 🎣🌲, sport 💪 and running 🏃‍♂️.
+- I enjoy learning new stuff and making notes 📄.
+- I like to travel and explore new opportunities 🛫.
 ---
 - Some technologies i enjoy working with include:
  - Front-end: ReactJs / NextJs
  - Back-end: Nodejs / 
  - Database: MongoDb / MySQL / PostgreSQL
- - Blockchain: Ethereum Virtual Machine / Near Protocol
  - Languages: **Javascript** / **Typescript** / Solidity / Python /
 ---
 
+## 🔮 My stacks
 
-![Nguyen Duc Nam stats](https://github-readme-stats.vercel.app/api?username=nam-nguyen17&show_icons=true&bg_color=00000000)
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nguyen17&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<a href="#"><img height="150px" src="https://github-readme-stats.vercel.app/api?username=nam-nguyen17&show_icons=true&hide_title=true&hide_border=true&theme=graywhite" /><img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-nguyen17&show_icons=true&layout=compact&langs_count=6&hide_title=true&hide_border=true&theme=graywhite" /></a>
 
