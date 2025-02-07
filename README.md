@@ -10,7 +10,7 @@
   <a href="https://www.facebook.com/namnguyennn17/">
     <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://t.me/namnguyen_17">
+  <a href="https://t.me/namnguyenn17">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <br/>
@@ -19,16 +19,16 @@
 
 ---
 **About Me**
-- I want to be a *Software Developer*. Currently, I am a final-year student at TTU.
+- I’m currently working on DOB Tech.
 - I love nature 🎣🌲, sport 💪 and running 🏃‍♂️.
 - I enjoy learning new stuff and making notes 📄.
 - I like to travel and explore new opportunities 🛫.
 ---
-- Some technologies i enjoy working with include:
+- Some technologies I enjoy working with include:
  - Front-end: ReactJs / NextJs
- - Back-end: Nodejs / 
- - Database: MongoDb / MySQL / PostgreSQL
- - Languages: **Javascript** / **Typescript** / Solidity / Python /
+ - Back-end: Nodejs / Nestjs / Axum
+ - Database: PostgreSQL / MySQL / MongoDB
+ - Languages: **Javascript** / **Typescript** / Python / Rust / Solidity
 ---
 
 ## 🔮 My stacks
